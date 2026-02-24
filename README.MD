@@ -1,7 +1,3 @@
-Absolutely ✅ — here’s a **demo-ready README.md** tailored for your **Streamlit RAG Stakeholder Query Bot POC**.
-
-You can copy this directly into your `README.md`.
-
 ---
 
 # 📊 Stakeholder Query Bot (RAG-Based)
