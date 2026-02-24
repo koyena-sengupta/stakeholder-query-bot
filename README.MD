@@ -62,7 +62,7 @@ stakeholder-query-bot/
 ├── data/raw/           # Dummy project documents
 ├── vectorstore/        # Auto-generated vector DB (gitignored)
 │
-├── .env                # API keys (do NOT commit)
+├── .env                # API keys
 ├── .gitignore
 ├── requirements.txt
 └── README.md
