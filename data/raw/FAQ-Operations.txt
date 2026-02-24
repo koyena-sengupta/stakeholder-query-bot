@@ -1,0 +1,16 @@
+FAQ-Operations
+Q1: How do I raise a production issue?
+
+Create a Jira ticket under "Production Support" and notify the Teams channel.
+
+Q2: What is the release cycle?
+
+Bi-weekly sprint cycle with monthly production releases.
+
+Q3: Who approves budget changes?
+
+Budget changes require approval from Finance Head and Delivery Director.
+
+Q4: Where are project documents stored?
+
+SharePoint under: /Projects/InsightX/Documents

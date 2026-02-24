@@ -1,0 +1,17 @@
+stakeholder-query-bot/
+│
+├── app/
+│   ├── main.py
+│   ├── ingest.py
+│   ├── rag_pipeline.py
+│   └── config.py
+│
+├── data/
+│   └── raw/
+│
+├── vectorstore/
+│
+├── .env
+├── .gitignore
+├── requirements.txt
+└── README.md
